@@ -1,0 +1,10 @@
+F:\FORMATIONS\PROJETS CODES\Dot.Net\webcore\bin\Debug\netcoreapp2.0\webcore.deps.json
+F:\FORMATIONS\PROJETS CODES\Dot.Net\webcore\bin\Debug\netcoreapp2.0\webcore.runtimeconfig.json
+F:\FORMATIONS\PROJETS CODES\Dot.Net\webcore\bin\Debug\netcoreapp2.0\webcore.runtimeconfig.dev.json
+F:\FORMATIONS\PROJETS CODES\Dot.Net\webcore\bin\Debug\netcoreapp2.0\webcore.dll
+F:\FORMATIONS\PROJETS CODES\Dot.Net\webcore\bin\Debug\netcoreapp2.0\webcore.pdb
+F:\FORMATIONS\PROJETS CODES\Dot.Net\webcore\obj\Debug\netcoreapp2.0\webcore.csproj.CoreCompileInputs.cache
+F:\FORMATIONS\PROJETS CODES\Dot.Net\webcore\obj\Debug\netcoreapp2.0\webcore.AssemblyInfoInputs.cache
+F:\FORMATIONS\PROJETS CODES\Dot.Net\webcore\obj\Debug\netcoreapp2.0\webcore.AssemblyInfo.cs
+F:\FORMATIONS\PROJETS CODES\Dot.Net\webcore\obj\Debug\netcoreapp2.0\webcore.dll
+F:\FORMATIONS\PROJETS CODES\Dot.Net\webcore\obj\Debug\netcoreapp2.0\webcore.pdb
