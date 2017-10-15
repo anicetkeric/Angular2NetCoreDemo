@@ -9,3 +9,6 @@ using Visual Studio Code
 - Restore the NuGet packages
 
 ```dotnet restore```
+
+```dotnet run```
+
